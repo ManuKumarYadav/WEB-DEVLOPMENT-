@@ -1,4 +1,4 @@
 #WEB DEVLOPMENT 
-this is my first git Repository.
+This is my first git Repository.
 <br>
-student Manu Kumar Yadav
+Student Manu Kumar Yadav
